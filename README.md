@@ -51,9 +51,7 @@
 ### 📊 GITHUB ANALYTICS
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=riderkungza2013&show_icons=true&hide_border=true&bg_color=050505&title_color=ffffff&text_color=bdbdbd&icon_color=ffffff&rank_icon=github" width="100%" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=riderkungza2013&layout=compact&hide_border=true&bg_color=050505&title_color=ffffff&text_color=bdbdbd" width="100%" alt="Top Languages" />
+  <img src="./analytics-card.svg" alt="GitHub Analytics &amp; Top Languages" width="100%"/>
   <br><br>
   <img src="https://streak-stats.demolab.com/?user=riderkungza2013&hide_border=true&background=050505&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=bdbdbd&dates=777777" width="100%" alt="GitHub Streak" />
 </div>
@@ -68,14 +66,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/riderkungza2013/riderkungza2013/output/github-contribution-grid-snake.svg">
     <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/riderkungza2013/riderkungza2013/output/github-contribution-grid-snake-dark.svg" width="100%"/>
   </picture>
-</div>
-
----
-
-### ⚡ ACTIVITY GRAPH
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riderkungza2013&bg_color=050505&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 ---

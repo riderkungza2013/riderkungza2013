@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 240" width="100%" height="100%">
+  <defs>
+    <linearGradient id="cardGrad4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0c0d10" />
+      <stop offset="50%" stop-color="#050505" />
+      <stop offset="100%" stop-color="#0a0b0e" />
+    </linearGradient>
+    <linearGradient id="borderGrad4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#333333" />
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.5" />
+      <stop offset="100%" stop-color="#222222" />
+    </linearGradient>
+    <linearGradient id="barPHP" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#777bb4" />
+      <stop offset="100%" stop-color="#8892be" />
+    </linearGradient>
+    <linearGradient id="barJS" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f1e05a" />
+      <stop offset="100%" stop-color="#f7df1e" />
+    </linearGradient>
+    <linearGradient id="barHTML" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#e34c26" />
+      <stop offset="100%" stop-color="#f06529" />
+    </linearGradient>
+    <linearGradient id="barPython" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3572A5" />
+      <stop offset="100%" stop-color="#4B8BBE" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .hdr-title { font-family: 'Segoe UI', -apple-system, sans-serif; font-weight: 800; font-size: 14px; fill: #ffffff; letter-spacing: 1.5px; }
+    .col-title { font-family: 'Segoe UI', sans-serif; font-weight: 700; font-size: 13px; fill: #e0e0e0; letter-spacing: 1px; }
+    .stat-lbl { font-family: 'Segoe UI', sans-serif; font-size: 12px; fill: #888888; font-weight: 500; }
+    .stat-val { font-family: 'JetBrains Mono', monospace; font-size: 13px; fill: #ffffff; font-weight: 700; }
+    .lang-name { font-family: 'JetBrains Mono', monospace; font-size: 11.5px; fill: #cccccc; font-weight: 600; }
+    .lang-pct { font-family: 'JetBrains Mono', monospace; font-size: 11.5px; fill: #ffffff; font-weight: 700; }
+    .bg-bar-lang { fill: #1c1d24; rx: 4px; }
+    .fg-bar-lang { rx: 4px; }
+  </style>
+
+  <!-- Background Card -->
+  <rect x="1.5" y="1.5" width="797" height="237" rx="12" fill="url(#cardGrad4)" stroke="url(#borderGrad4)" stroke-width="1.5" />
+
+  <!-- Top Header Bar -->
+  <path d="M 2 13 Q 2 2 13 2 L 787 2 Q 798 2 798 13 L 798 38 L 2 38 Z" fill="#121318" />
+  <line x1="2" y1="38" x2="798" y2="38" stroke="#222222" stroke-width="1" />
+
+  <!-- Window Dots -->
+  <circle cx="24" cy="20" r="5" fill="#ff5f56" />
+  <circle cx="42" cy="20" r="5" fill="#ffbd2e" />
+  <circle cx="60" cy="20" r="5" fill="#27c93f" />
+
+  <!-- Title -->
+  <text x="80" y="24" class="hdr-title">📊 GITHUB OVERVIEW &amp; TOP LANGUAGES</text>
+
+  <!-- Vertical Divider -->
+  <line x1="390" y1="48" x2="390" y2="225" stroke="#1f2026" stroke-width="1.5" stroke-dasharray="4,4" />
+
+  <!-- ================= LEFT COLUMN: STATS OVERVIEW ================= -->
+  <g transform="translate(30, 68)">
+    <!-- Metric 1: Public Repos -->
+    <rect x="0" y="0" width="160" height="60" rx="8" fill="#121319" stroke="#22232c" stroke-width="1" />
+    <text x="14" y="24" class="stat-lbl">PUBLIC REPOS</text>
+    <text x="14" y="48" class="stat-val" fill="#00ff66">11 Repos</text>
+
+    <!-- Metric 2: Contributions -->
+    <rect x="175" y="0" width="165" height="60" rx="8" fill="#121319" stroke="#22232c" stroke-width="1" />
+    <text x="189" y="24" class="stat-lbl">TOTAL CONTRIBUTIONS</text>
+    <text x="189" y="48" class="stat-val" fill="#ffffff">85+ Commits</text>
+
+    <!-- Metric 3: Active Since -->
+    <rect x="0" y="75" width="160" height="60" rx="8" fill="#121319" stroke="#22232c" stroke-width="1" />
+    <text x="14" y="99" class="stat-lbl">DEV SINCE</text>
+    <text x="14" y="123" class="stat-val" fill="#90caf9">Sep 2019</text>
+
+    <!-- Metric 4: Dev Rank -->
+    <rect x="175" y="75" width="165" height="60" rx="8" fill="#121319" stroke="#22232c" stroke-width="1" />
+    <text x="189" y="99" class="stat-lbl">DEV STATUS</text>
+    <text x="189" y="123" class="stat-val" fill="#ffbd2e">⚡ LEVEL A+</text>
+  </g>
+
+  <!-- ================= RIGHT COLUMN: TOP LANGUAGES ================= -->
+  <!-- 1. PHP 42% -->
+  <g transform="translate(425, 75)">
+    <circle cx="5" cy="-4" r="4.5" fill="#777bb4" />
+    <text x="16" y="0" class="lang-name">PHP / Laravel</text>
+    <text x="345" y="0" text-anchor="end" class="lang-pct">42%</text>
+    <rect x="0" y="8" width="345" height="8" class="bg-bar-lang" />
+    <rect x="0" y="8" width="145" height="8" fill="url(#barPHP)" class="fg-bar-lang" />
+  </g>
+
+  <!-- 2. JavaScript 28% -->
+  <g transform="translate(425, 115)">
+    <circle cx="5" cy="-4" r="4.5" fill="#f7df1e" />
+    <text x="16" y="0" class="lang-name">JavaScript / TypeScript</text>
+    <text x="345" y="0" text-anchor="end" class="lang-pct">28%</text>
+    <rect x="0" y="8" width="345" height="8" class="bg-bar-lang" />
+    <rect x="0" y="8" width="97" height="8" fill="url(#barJS)" class="fg-bar-lang" />
+  </g>
+
+  <!-- 3. HTML & CSS 20% -->
+  <g transform="translate(425, 155)">
+    <circle cx="5" cy="-4" r="4.5" fill="#e34c26" />
+    <text x="16" y="0" class="lang-name">HTML5 / CSS3 / Blade</text>
+    <text x="345" y="0" text-anchor="end" class="lang-pct">20%</text>
+    <rect x="0" y="8" width="345" height="8" class="bg-bar-lang" />
+    <rect x="0" y="8" width="69" height="8" fill="url(#barHTML)" class="fg-bar-lang" />
+  </g>
+
+  <!-- 4. Python & Shell 10% -->
+  <g transform="translate(425, 195)">
+    <circle cx="5" cy="-4" r="4.5" fill="#3572A5" />
+    <text x="16" y="0" class="lang-name">Python / Bash / Other</text>
+    <text x="345" y="0" text-anchor="end" class="lang-pct">10%</text>
+    <rect x="0" y="8" width="345" height="8" class="bg-bar-lang" />
+    <rect x="0" y="8" width="35" height="8" fill="url(#barPython)" class="fg-bar-lang" />
+  </g>
+</svg>
