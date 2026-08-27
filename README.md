@@ -1,23 +1,22 @@
 <div align="center">
 
 <!-- ========================================================= -->
-
 <!--                    BLACKOUT HEADER                        -->
-
 <!-- ========================================================= -->
 
 <img src="./blackout-lightning.gif" width="100%" alt="BLACKOUT Header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=700&color=FFFFFF&center=true&vCenter=true&width=720&lines=%3E+SYSTEM+ONLINE;WELCOME+TO+MY+PROFILE;%3E+DEVELOPER_MODE%3A+ACTIVE;%3E+BUILDING+THE+FUTURE...;%3E+CODE.+COMMIT.+REPEAT." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=700&color=FFFFFF&center=true&vCenter=true&width=720&lines=%3E+SYSTEM+ONLINE;WELCOME+TO+MY+PROFILE;%3E+DEVELOPER_MODE%3A+ACTIVE;%3E+BUILDING+THE+FUTURE...;%3E+CODE.+COMMIT.+REPEAT." alt="Typing SVG" />
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=ffffff" width="85%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=ffffff" width="100%"/>
 
 </div>
 
-⚡ > SYSTEM_PROFILE
+### ⚡ SYSTEM PROFILE
 
+```text
 ╔══════════════════════════════════════════════════════════════════════╗
 ║                         BLACKOUT // PROFILE                          ║
 ╠══════════════════════════════════════════════════════════════════════╣
@@ -30,10 +29,13 @@
 ║  FOCUS       : BUILD / AUTOMATE / OPTIMIZE                           ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
+```
 
-Don't just write code. Build something worth remembering.
+> *Don't just write code. Build something worth remembering.*
 
-🧬 SKILL TREE
+---
+
+### 🧬 SKILL TREE
 
 <div align="center">
 
@@ -41,38 +43,49 @@ Don't just write code. Build something worth remembering.
 
 </div>
 
-⚔️ TECH STACK
+---
+
+### ⚔️ TECH STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,php,mysql,postgres,mongodb,redis,git,github,docker,linux,nginx,vscode,postman&perline=11" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,php,mysql,postgres,mongodb,redis,git,github,docker,linux,nginx,vscode,postman&perline=11" alt="Tech Stack" />
 
 </div>
 
-🔥 POWER LEVEL
+---
 
+### 🔥 POWER LEVEL
+
+```text
 FRONTEND     ███████████████████░  95%
 BACKEND      █████████████████░░░  85%
 DATABASE     ████████████████░░░░  80%
 DEVOPS       ███████████████░░░░░  75%
 AUTOMATION   █████████████████░░░  85%
+```
 
-🛰️ CURRENT MISSION
+---
 
+### 🛰️ CURRENT MISSION
+
+```text
 ┌──────────────────────────────────────────────────────────────────┐
-│                                                                  │
 │  [ SYSTEM TASKS ]                                                │
 │                                                                  │
-│  ✓ BUILD        ████████████████████  100%                      │
-│  ✓ LEARN        █████████████████░░░   85%                      │
-│  ✓ AUTOMATE     ████████████████░░░░   80%                      │
-│  ✓ OPTIMIZE     ███████████████░░░░░   75%                      │
-│  → SHIP         ██████████████████░░   90%                      │
-│                                                                  │
+│  ✓ BUILD        ████████████████████  100%                       │
+│  ✓ LEARN        █████████████████░░░   85%                       │
+│  ✓ AUTOMATE     ████████████████░░░░   80%                       │
+│  ✓ OPTIMIZE     ███████████████░░░░░   75%                       │
+│  → SHIP         ██████████████████░░   90%                       │
 └──────────────────────────────────────────────────────────────────┘
+```
 
-💀 PROJECTS
+---
 
+### 💀 FEATURED PROJECTS
+
+```text
 ╭──────────────────────────────────────────────────────────────────╮
 │                                                                  │
 │  [01] PROJECT ALPHA                                              │
@@ -85,64 +98,72 @@ AUTOMATION   █████████████████░░░  85%
 │      └─ Experimental Technology                                  │
 │                                                                  │
 ╰──────────────────────────────────────────────────────────────────╯
+```
 
-📊 GITHUB ANALYTICS
+---
+
+### 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=riderkungza2013&show_icons=true&hide_border=true&bg_color=050505&title_color=ffffff&text_color=bdbdbd&icon_color=ffffff&rank_icon=github" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riderkungza2013&layout=compact&hide_border=true&bg_color=050505&title_color=ffffff&text_color=bdbdbd" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=riderkungza2013&show_icons=true&hide_border=true&bg_color=050505&title_color=ffffff&text_color=bdbdbd&icon_color=ffffff&rank_icon=github" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riderkungza2013&layout=compact&hide_border=true&bg_color=050505&title_color=ffffff&text_color=bdbdbd" width="40%" alt="Top Languages" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=riderkungza2013&hide_border=true&background=050505&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=bdbdbd&dates=777777" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=riderkungza2013&hide_border=true&background=050505&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=bdbdbd&dates=777777" width="70%" alt="GitHub Streak" />
 
 </div>
 
-🐍 CONTRIBUTION
+---
+
+### 🐍 CONTRIBUTION GRAPH
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riderkungza2013/riderkungza2013/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/riderkungza2013/riderkungza2013/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/riderkungza2013/riderkungza2013/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/riderkungza2013/riderkungza2013/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 </picture>
 
 </div>
 
-⚡ ACTIVITY
+---
+
+### ⚡ ACTIVITY GRAPH
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=riderkungza2013&bg_color=050505&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=riderkungza2013&bg_color=050505&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="95%" alt="Activity Graph" />
 
 </div>
 
-🕶️ CONNECT
+---
+
+### 🕶️ CONNECT WITH ME
 
 <div align="center">
 
 <a href="https://github.com/riderkungza2013">
-<img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-
 <a href="https://linkedin.com/in/riderkungza2013">
-<img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-
 <a href="mailto:riderkungza2013@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 </div>
+
+<br>
 
 <div align="center">
 
 ⚡ ───────────────────────────────────────────────────────────── ⚡
 
-                 CODE. COMMIT. CONQUER.
+                  **CODE. COMMIT. CONQUER.**
 
 ⚡ ───────────────────────────────────────────────────────────── ⚡
 
