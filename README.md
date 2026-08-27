@@ -24,14 +24,6 @@
 
 ---
 
-### ⚔️ TECH STACK
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,php,mysql,postgres,mongodb,redis,git,github,docker,linux,nginx,vscode,postman&perline=11" alt="Tech Stack" />
-</div>
-
----
-
 ### 🔥 POWER LEVEL &amp; CURRENT MISSION
 
 <div align="center">
@@ -66,6 +58,14 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/riderkungza2013/riderkungza2013/output/github-contribution-grid-snake.svg">
     <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/riderkungza2013/riderkungza2013/output/github-contribution-grid-snake-dark.svg" width="100%"/>
   </picture>
+</div>
+
+---
+
+### ⚔️ TECH STACK
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,php,mysql,postgres,mongodb,redis,git,github,docker,linux,nginx,vscode,postman&perline=11" alt="Tech Stack" />
 </div>
 
 ---
