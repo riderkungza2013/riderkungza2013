@@ -43,7 +43,7 @@
 ### ⚔️ STRUGGLER // BERSERK
 
 <div align="center">
-  <img src="./berserk-fire.gif" alt="Berserker Armor Guts" width="100%"/>
+  <img src="./berserk-aura.gif" alt="Berserker Armor Guts" width="100%"/>
   <br>
   <p><i>"He who fights with monsters might take care lest he thereby become a monster."</i></p>
 </div>
