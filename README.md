@@ -1,38 +1,59 @@
 <div align="center">
 
-# ⚡ LIGHTNING BLACK XIII ⚡
+```
+        ⚡⚡⚡
+       ╱      ╲
+      ╱   ▄▄▄   ╲
+     ╱   █▀▀▀█   ╲
+    ▕    █   █    ▏
+     ╲   █▄▄▄█   ╱
+      ╲    ▐    ╱
+       ╲   ▐   ╱
+        ╲  ▐  ╱
+         ╲ ▐ ╱
+          ╲▐╱
+```
 
-### `Full-Stack Developer` · `PHP` • `Laravel` • `React Native`
+# ⚡ L I G H T N I N G &nbsp; B L A C K &nbsp; X I I I ⚡
 
-<img src="https://img.shields.io/badge/DEVELOPER-FULL--STACK-000000?style=for-the-badge&labelColor=000000&color=4C1D95" />
-<img src="https://img.shields.io/badge/STATUS-READY_TO_STRIKE-000000?style=for-the-badge&labelColor=000000&color=A855F7" />
-<img src="https://img.shields.io/badge/POWERED_BY-COFFEE-000000?style=for-the-badge&labelColor=000000&color=6D28D9" />
+<img src="https://img.shields.io/badge/CLASS-FULL--STACK_DEVELOPER-000000?style=for-the-badge&labelColor=000000&color=6D28D9" />
+<img src="https://img.shields.io/badge/ALIGNMENT-CHAOTIC_GOOD_CODE-000000?style=for-the-badge&labelColor=000000&color=A855F7" />
 
 </div>
 
 <br>
 
+## 📜 CHARACTER SHEET
+
+<div align="center">
+
+| Attribute | Value |
+|:---|:---|
+| 🗡️ **Codename** | Lightning Black XIII |
+| 🧙 **Guild Handle** | `riderkungza2013` |
+| ⚔️ **Class** | Full-Stack Web & Mobile Architect |
+| 🔮 **Primary Weapons** | PHP / Laravel |
+| 🏹 **Secondary Weapons** | React Native, TypeScript |
+| 🖤 **Passive Skill** | *"Master the shadows, fear no complexity."* |
+| ⚡ **Current Quest** | Building scalable systems that don't fear traffic spikes |
+
+</div>
+
+<br>
+
+## 📊 POWER LEVELS
+
 ```
-╔══════════════════════════════════════════════════════════╗
-║  root@lightning-black:~$ whoami                           ║
-║  > Full-Stack Developer | PHP • Laravel • React Native    ║
-║  root@lightning-black:~$ status                           ║
-║  > [ONLINE] Building in the dark, shipping in the light   ║
-╚══════════════════════════════════════════════════════════╝
+Backend Sorcery     ████████████████████░░  92%
+Frontend Strikes     ██████████████████░░░  85%
+Database Warfare    ████████████████░░░░░  78%
+DevOps Rituals       ███████████████░░░░░░  72%
+Debugging Instinct  ██████████████████████ 100%
 ```
 
-## ⚡ ABOUT THE STORM
+<br>
 
-```yaml
-codename:    "Lightning Black XIII"
-alias:       "riderkungza2013"
-class:       Full-Stack Web & Mobile Architect
-core_stack:  [PHP/Laravel, React Native, JavaScript, TypeScript]
-objective:   High-performance engineering, clean & scalable code
-motto:       "Master the shadows, fear no complexity."
-```
-
-## 🗡️ TECH ARSENAL
+## 🗡️ SKILL TREE
 
 <div align="center">
 
@@ -53,45 +74,78 @@ motto:       "Master the shadows, fear no complexity."
 
 </div>
 
-## ⚔️ THE LIGHTNING ARC — HOW I WORK
+<br>
+
+## 📖 QUEST LOG
 
 <table align="center">
 <tr>
-<td width="50%" valign="top">
+<th>⚡ Realm</th>
+<th>🖤 Abilities Unlocked</th>
+</tr>
+<tr>
+<td valign="top"><b>Backend Sorcery</b></td>
+<td>
 
-### 🖤 Backend Domain
 - RESTful & GraphQL API design
-- Laravel service architecture
-- Database schema optimization
-- Auth, queues & background jobs
+- Laravel service-oriented architecture
+- Queue-driven background jobs
+- Authentication & authorization systems
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td valign="top"><b>Frontend / Mobile Strikes</b></td>
+<td>
 
-### ⚡ Frontend / Mobile Domain
 - React Native cross-platform apps
-- Responsive, animated UI/UX
-- State management at scale
+- Pixel-tight, animated UI/UX
+- Scalable state management
 - Performance-first rendering
+
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Data Forge</b></td>
+<td>
+
+- Schema design & normalization
+- Query optimization
+- Zero-downtime migrations
+
+</td>
+</tr>
+<tr>
+<td valign="top"><b>DevOps Rituals</b></td>
+<td>
+
+- Docker environments
+- CI/CD pipelines
+- Deployment without drama
 
 </td>
 </tr>
 </table>
 
-## 🗡️ BATTLE LOG — WHAT I BUILD
+<br>
 
-| ⚡ Domain | 🖤 Focus |
-|:---|:---|
-| **Backend Sorcery** | RESTful & GraphQL APIs, Laravel service layers, queue-driven jobs |
-| **Frontend Strikes** | React Native apps, pixel-tight UI, smooth animation systems |
-| **Data Forge** | Schema design, query optimization, migrations that don't break prod |
-| **DevOps Rituals** | Docker environments, CI/CD pipelines, deployment without drama |
-
-## ⚡ CONNECT TO THE MAINFRAME
+## 🏆 ACHIEVEMENTS
 
 <div align="center">
 
-<a href="mailto::)@gmail.com">
+<img src="https://img.shields.io/badge/🗡️_QUESTS_COMPLETED-100%2B-000000?style=for-the-badge&labelColor=000000&color=4C1D95" />
+<img src="https://img.shields.io/badge/⚡_UPTIME_MINDSET-99.9%25-000000?style=for-the-badge&labelColor=000000&color=A855F7" />
+<img src="https://img.shields.io/badge/🖤_COFFEE_CONSUMED-INFINITE-000000?style=for-the-badge&labelColor=000000&color=6D28D9" />
+
+</div>
+
+<br>
+
+## ⚡ SUMMON ME
+
+<div align="center">
+
+<a href="mailto:your-email@example.com">
   <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" />
 </a>
 <a href="https://github.com/riderkungza2013">
@@ -100,10 +154,16 @@ motto:       "Master the shadows, fear no complexity."
 
 </div>
 
+<br>
+
 <div align="center">
 
 ```
-root@lightning-black:~$ echo "in the silence between commits, the code writes itself."
+"Every line of code is a spell.
+ Every bug is a boss fight.
+ I don't lose."
 ```
+
+⚡ — Lightning Black XIII — ⚡
 
 </div>
