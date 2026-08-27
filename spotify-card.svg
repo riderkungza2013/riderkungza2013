@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 150" width="100%" height="100%">
+  <defs>
+    <linearGradient id="spotifyCardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0e1017" />
+      <stop offset="50%" stop-color="#06070a" />
+      <stop offset="100%" stop-color="#090a10" />
+    </linearGradient>
+    <linearGradient id="spotifyBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2a2d3d" />
+      <stop offset="50%" stop-color="#1db954" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#1e202b" />
+    </linearGradient>
+    <linearGradient id="progressGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1db954" />
+      <stop offset="100%" stop-color="#1ed760" />
+    </linearGradient>
+    <filter id="spotifyGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <style>
+    .hdr-title { font-family: 'Segoe UI', -apple-system, sans-serif; font-weight: 800; font-size: 13px; fill: #ffffff; letter-spacing: 1.5px; }
+    .track-title { font-family: 'Segoe UI', -apple-system, sans-serif; font-weight: 800; font-size: 15px; fill: #ffffff; letter-spacing: 0.5px; }
+    .artist-name { font-family: 'Segoe UI', sans-serif; font-size: 12.5px; fill: #a0a0b0; }
+    .time-text { font-family: 'JetBrains Mono', monospace; font-size: 11px; fill: #777788; }
+  </style>
+
+  <!-- Background Card -->
+  <rect x="1.5" y="1.5" width="797" height="147" rx="12" fill="url(#spotifyCardBg)" stroke="url(#spotifyBorder)" stroke-width="1.5" />
+
+  <!-- Top Title Bar -->
+  <path d="M 2 13 Q 2 2 13 2 L 787 2 Q 798 2 798 13 L 798 34 L 2 34 Z" fill="#13151f" />
+  <line x1="2" y1="34" x2="798" y2="34" stroke="#1f2230" stroke-width="1" />
+
+  <!-- Window Dots -->
+  <circle cx="22" cy="18" r="4.5" fill="#ff5f56" />
+  <circle cx="38" cy="18" r="4.5" fill="#ffbd2e" />
+  <circle cx="54" cy="18" r="4.5" fill="#27c93f" />
+
+  <!-- Title -->
+  <text x="74" y="22" class="hdr-title">🎧 SPOTIFY // CODING SOUNDTRACK</text>
+
+  <!-- Status Live Pill -->
+  <rect x="690" y="8" width="90" height="18" rx="9" fill="#1db954" fill-opacity="0.15" stroke="#1db954" stroke-width="1" />
+  <circle cx="704" cy="17" r="3" fill="#1db954" filter="url(#spotifyGlow)" />
+  <text x="714" y="21" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="700" fill="#1db954">PLAYING</text>
+
+  <!-- ================= ALBUM ART / VINYL ================= -->
+  <g transform="translate(25, 48)">
+    <rect width="80" height="80" rx="8" fill="#181a24" stroke="#2a2d3d" stroke-width="1" />
+    
+    <!-- Vinyl Disc Graphic -->
+    <circle cx="40" cy="40" r="32" fill="#0d0e14" stroke="#252838" stroke-width="2" />
+    <circle cx="40" cy="40" r="22" fill="#11131c" stroke="#1db954" stroke-width="1" />
+    <circle cx="40" cy="40" r="8" fill="#1db954" filter="url(#spotifyGlow)" />
+    <circle cx="40" cy="40" r="3" fill="#ffffff" />
+  </g>
+
+  <!-- ================= TRACK INFO & PROGRESS ================= -->
+  <g transform="translate(125, 48)">
+    <!-- Track Title -->
+    <text x="0" y="20" class="track-title">Cyberpunk 2077 // The Rebel Path</text>
+    
+    <!-- Artist -->
+    <text x="0" y="38" class="artist-name">P.T. Adamczyk • Synthwave Coding Session</text>
+
+    <!-- Progress Bar -->
+    <rect x="0" y="54" width="580" height="6" rx="3" fill="#1c1f2b" />
+    <rect x="0" y="54" width="360" height="6" rx="3" fill="url(#progressGrad)" filter="url(#spotifyGlow)" />
+    <circle cx="360" cy="57" r="5" fill="#ffffff" />
+
+    <!-- Time Stamps -->
+    <text x="0" y="74" class="time-text">02:18</text>
+    <text x="580" y="74" text-anchor="end" class="time-text">03:45</text>
+  </g>
+
+  <!-- ================= EQUALIZER BARS (Right side) ================= -->
+  <g transform="translate(730, 85)">
+    <rect x="0" y="-18" width="4" height="24" rx="2" fill="#1db954" />
+    <rect x="7" y="-30" width="4" height="36" rx="2" fill="#1db954" />
+    <rect x="14" y="-12" width="4" height="18" rx="2" fill="#1db954" />
+    <rect x="21" y="-24" width="4" height="30" rx="2" fill="#1db954" />
+    <rect x="28" y="-8" width="4" height="14" rx="2" fill="#1db954" />
+  </g>
+</svg>
+
