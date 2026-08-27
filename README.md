@@ -22,8 +22,8 @@
 ║                         BLACKOUT // PROFILE                          ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║                                                                      ║
-║  USER        : YOUR NAME                                             ║
-║  ROLE        : DEVELOPER                                             ║
+║  USER        : LIGHTNING BLACK XIII (riderkungza2013)                ║
+║  ROLE        : FULL STACK DEVELOPER                                  ║
 ║  LOCATION    : THAILAND                                              ║
 ║  STATUS      : ● ONLINE                                              ║
 ║  MODE        : BLACKOUT                                              ║
@@ -36,6 +36,10 @@ Don't just write code. Build something worth remembering.
 🧬 SKILL TREE
 
 <div align="center">
+
+<img src="./skill-tree.png" alt="Skill Tree" width="90%"/>
+
+<br><br>
 
                               ┌──────────────┐
                               │     DEV      │
@@ -121,13 +125,13 @@ AUTOMATION   █████████████████░░░  85%
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=050505&title_color=ffffff&text_color=bdbdbd&icon_color=ffffff&rank_icon=github" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=riderkungza2013&show_icons=true&hide_border=true&bg_color=050505&title_color=ffffff&text_color=bdbdbd&icon_color=ffffff&rank_icon=github" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=050505&title_color=ffffff&text_color=bdbdbd" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riderkungza2013&layout=compact&hide_border=true&bg_color=050505&title_color=ffffff&text_color=bdbdbd" width="40%"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=050505&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=bdbdbd&dates=777777" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=riderkungza2013&hide_border=true&background=050505&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=bdbdbd&dates=777777" width="70%"/>
 
 </div>
 
@@ -135,7 +139,11 @@ AUTOMATION   █████████████████░░░  85%
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" width="90%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riderkungza2013/riderkungza2013/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/riderkungza2013/riderkungza2013/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/riderkungza2013/riderkungza2013/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+</picture>
 
 </div>
 
@@ -143,7 +151,7 @@ AUTOMATION   █████████████████░░░  85%
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=050505&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=riderkungza2013&bg_color=050505&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="95%"/>
 
 </div>
 
@@ -151,15 +159,15 @@ AUTOMATION   █████████████████░░░  85%
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/riderkungza2013">
 <img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_USERNAME">
+<a href="https://linkedin.com/in/riderkungza2013">
 <img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:riderkungza2013@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
