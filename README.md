@@ -11,7 +11,7 @@
 ### ⚡ SYSTEM PROFILE
 
 <div align="center">
-  <img src="./profile-card.svg" alt="System Profile" width="100%"/>
+  <img src="./profile-card-v2.svg" alt="System Profile" width="100%"/>
 </div>
 
 ---
