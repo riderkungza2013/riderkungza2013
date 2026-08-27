@@ -4,7 +4,7 @@
 <!--                    BLACKOUT HEADER                        -->
 <!-- ========================================================= -->
 
-<img src="./blackout-lightning.gif?v=red" width="100%" alt="BLACKOUT Header"/>
+<img src="./blackout-lightning-red.gif" width="100%" alt="BLACKOUT Header"/>
 
 </div>
 
