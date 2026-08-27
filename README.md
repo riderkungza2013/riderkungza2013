@@ -12,7 +12,7 @@
 
 <br><br>
 
-<img src="./skill-tree.png" alt="Skill Tree" width="90%"/>
+<img src="./skill-tree.png" alt="Skill Tree" width="100%"/>
 
 <br><br>
 
@@ -28,24 +28,27 @@
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=riderkungza2013&show_icons=true&hide_border=true&bg_color=050505&title_color=ffffff&text_color=bdbdbd&icon_color=ffffff&rank_icon=github" width="48%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riderkungza2013&layout=compact&hide_border=true&bg_color=050505&title_color=ffffff&text_color=bdbdbd" width="40%" alt="Top Languages" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=riderkungza2013&show_icons=true&hide_border=true&bg_color=050505&title_color=ffffff&text_color=bdbdbd&icon_color=ffffff&rank_icon=github" width="100%" alt="GitHub Stats" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=riderkungza2013&hide_border=true&background=050505&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=bdbdbd&dates=777777" width="70%" alt="GitHub Streak" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=riderkungza2013&layout=compact&hide_border=true&bg_color=050505&title_color=ffffff&text_color=bdbdbd" width="100%" alt="Top Languages" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=riderkungza2013&hide_border=true&background=050505&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=bdbdbd&dates=777777" width="100%" alt="GitHub Streak" />
 
 <br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riderkungza2013/riderkungza2013/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/riderkungza2013/riderkungza2013/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/riderkungza2013/riderkungza2013/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/riderkungza2013/riderkungza2013/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=riderkungza2013&bg_color=050505&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="95%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=riderkungza2013&bg_color=050505&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 
 <br><br>
 
