@@ -40,6 +40,16 @@
 
 ---
 
+### ⚔️ STRUGGLER // BERSERK
+
+<div align="center">
+  <img src="./berserk-walk.gif" alt="Berserk Guts" width="100%"/>
+  <br>
+  <p><i>"Even if we painstakingly piece together something lost, it doesn't mean things will ever go back to how they were."</i></p>
+</div>
+
+---
+
 ### 📊 GITHUB ANALYTICS
 
 <div align="center">
