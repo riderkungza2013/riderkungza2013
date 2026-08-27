@@ -1,271 +1,133 @@
 <div align="center">
 
-<!-- ⚡ ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=250&section=header&text=LIGHTNING%20BLACK%20XIII&fontSize=44&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=%E2%9A%A1%20Full-Stack%20Developer%20%E2%80%A2%20PHP%20%E2%80%A2%20Laravel%20%E2%80%A2%20React%20Native%20%E2%9A%A1&descAlignY=58&descSize=17&descColor=CCCCCC" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=000000&text=DEVELOPER&fontColor=ffffff&fontSize=65&fontAlignY=38&animation=twinkling&desc=CODE%20•%20BUILD%20•%20DESTROY&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2600&pause=900&color=FFFFFF&background=000000&center=true&vCenter=true&width=650&lines=%E2%9A%A1+STRIKE+FIRST%2C+CODE+FASTER;Building+in+black%2C+shipping+in+silence;No+bugs+survive+the+storm" alt="Typing SVG" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=650&lines=SYSTEM+INITIALIZED...;WELCOME+TO+MY+PROFILE;FULL+STACK+DEVELOPER;BUILDING+THE+FUTURE;CODE.+COMMIT.+REPEAT." />
+<img src="https://img.shields.io/badge/⚡_STATUS-ONLINE-000000?style=for-the-badge&labelColor=000000&color=FFFFFF" />
+<img src="https://img.shields.io/badge/MODE-DARK_ONLY-000000?style=for-the-badge&labelColor=000000&color=FFFFFF" />
+<img src="https://komarev.com/ghpvc/?username=riderkungza2013&label=VISITORS&color=000000&style=for-the-badge" />
+
+</div>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/black.png" width="100%">
+
+## ⚡ WHO'S STRIKING
+
+```
+> whoami
+Lightning Black XIII — full-stack dev who ships fast and breaks nothing.
+
+> stack --core
+PHP · Laravel · React Native · TypeScript · JavaScript
+
+> motto
+"Master the shadows, fear no complexity."
+```
+
+<br>
+
+## 🖤 SKILL TREE
+
+<div align="center">
+
+```
+                    ⚡ CORE ⚡
+                      │
+        ┌─────────────┼─────────────┐
+        │             │             │
+     BACKEND      FRONTEND       DEVOPS
+        │             │             │
+   ┌────┼────┐   ┌────┼────┐   ┌────┼────┐
+   PHP Laravel  React  RN     Docker  Git
+```
+
+<img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nodejs,html,css,tailwind,bootstrap,mysql,git,github,vscode,postman,docker&perline=8&theme=dark" alt="Skills" />
 
 <br><br>
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+<img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
+<img src="https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+<img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF" />
 
 </div>
 
----
+<br>
 
-<!-- ⚡ LIGHTNING -->
+## ⚔️ HOW I OPERATE
 
-<div align="center">
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-```text
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║       ⚡  S Y S T E M   O N L I N E   ⚡                        ║
-║                                                                  ║
-║       > INITIALIZING DEVELOPER PROFILE...                       ║
-║       > LOADING SKILLS......... ████████████████ 100%           ║
-║       > LOADING PROJECTS....... ████████████████ 100%           ║
-║       > STATUS................. ● ONLINE                        ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+### 🖤 Backend
+```diff
++ RESTful & GraphQL APIs
++ Laravel service architecture
++ Queue-driven background jobs
++ Auth systems that don't leak
 ```
 
-</div>
+</td>
+<td width="50%" valign="top">
 
-<!-- ABOUT -->
-
-## `> ABOUT_ME`
-
-```yaml
-name: YOUR NAME
-role: Full Stack Developer
-location: Thailand
-status: Building Cool Stuff
-focus:
-  - Web Development
-  - Backend Systems
-  - Automation
-  - Cyber Security
-  - DevOps
-
-mindset:
-  - Build
-  - Break
-  - Learn
-  - Repeat
+### ⚡ Frontend / Mobile
+```diff
++ React Native cross-platform apps
++ Buttery-smooth animations
++ State management at scale
++ Pixel-tight, responsive UI
 ```
 
-> **"First, solve the problem. Then, write the code."**
+</td>
+</tr>
+</table>
 
----
+<br>
 
-# ⚡ SKILL TREE
+## 📊 THE NUMBERS
 
 <div align="center">
 
-```text
-                              ┌───────────────┐
-                              │   DEVELOPER   │
-                              └───────┬───────┘
-                                      │
-                ┌─────────────────────┼─────────────────────┐
-                │                     │                     │
-         ┌──────▼──────┐      ┌──────▼──────┐      ┌──────▼──────┐
-         │   FRONTEND  │      │   BACKEND   │      │   DATABASE   │
-         └──────┬──────┘      └──────┬──────┘      └──────┬──────┘
-                │                     │                     │
-        ┌───────┼───────┐     ┌───────┼───────┐     ┌──────┼──────┐
-        │       │       │     │       │       │     │      │      │
-       HTML    CSS      JS   Node    Python   API  MySQL  Mongo  Redis
-        │       │       │     │       │       │     │      │      │
-        ▼       ▼       ▼     ▼       ▼       ▼     ▼      ▼      ▼
-      React   Tailwind TypeScript Express Django REST PostgreSQL Firebase
+<img src="https://github-readme-stats.vercel.app/api?username=riderkungza2013&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=CCCCCC" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riderkungza2013&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC" width="38%" />
 
-                         │
-                         ▼
+<br>
 
-                 ┌─────────────────┐
-                 │      DEVOPS     │
-                 └────────┬────────┘
-                          │
-              ┌───────────┼───────────┐
-              │           │           │
-             Git         Docker       Linux
-              │           │           │
-              └───────────┼───────────┘
-                          │
-                          ▼
-                   GitHub Actions
-```
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=riderkungza2013&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" width="70%"/>
 
 </div>
 
----
+<br>
 
-# 🧬 TECH STACK
-
-<div align="center">
-
-### `FRONTEND`
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-
-### `BACKEND`
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,php,java,fastapi" />
-
-### `DATABASE`
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase" />
-
-### `DEVOPS / TOOLS`
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,aws,vscode,postman" />
-
-</div>
-
----
-
-# ⚡ CURRENT MISSION
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  [████████████████████████████████████████] 100%            │
-│                                                             │
-│  █ BUILDING       → Scalable Applications                   │
-│  █ LEARNING       → New Technologies                        │
-│  █ AUTOMATING     → Repetitive Tasks                        │
-│  █ OPTIMIZING     → Performance                             │
-│  █ EXPERIMENTING  → New Ideas                               │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-# 🛰️ GITHUB STATS
+## ⚡ CATCH THE SIGNAL
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc" height="170"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" width="70%"/>
-
-</div>
-
----
-
-# 📊 ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-# ⚔️ PROJECTS
-
-```text
-╔══════════════════════════════════════════════════════════╗
-║                    PROJECT DATABASE                      ║
-╠══════════════════════════════════════════════════════════╣
-║                                                          ║
-║  [01] ████████████████████  PROJECT ALPHA               ║
-║       └─ Full Stack Application                          ║
-║                                                          ║
-║  [02] ███████████████░░░░░  PROJECT OMEGA               ║
-║       └─ Automation / API                                ║
-║                                                          ║
-║  [03] ██████████░░░░░░░░░░  PROJECT NEXUS               ║
-║       └─ Experimental Technology                          ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
----
-
-# 🔥 CONTRIBUTION MODE
-
-<div align="center">
-
-```text
-          M   T   W   T   F   S   S
-
-      ░   ░   ▓   ░   ▓   ▓   ░
-      ▓   ▓   ▓   ▓   ░   ▓   ▓
-      ░   ▓   █   ▓   █   ▓   ░
-      ▓   █   █   ▓   █   █   ▓
-      █   █   █   █   █   █   █
-
-             KEEP PUSHING FORWARD
-```
-
-</div>
-
----
-
-# 🧠 DEVELOPER PHILOSOPHY
-
-<div align="center">
-
-```text
-╭─────────────────────────────────────────────────────────╮
-│                                                         │
-│   DON'T JUST WRITE CODE.                               │
-│                                                         │
-│   DESIGN IT.                                            │
-│   BREAK IT.                                             │
-│   FIX IT.                                               │
-│   OPTIMIZE IT.                                          │
-│   SHIP IT.                                              │
-│                                                         │
-╰─────────────────────────────────────────────────────────╯
-```
-
-</div>
-
----
-
-# ⚡ CONNECT
-
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
-
-<a href="https://linkedin.com/in/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://github.com/riderkungza2013">
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 </a>
 
 </div>
 
----
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=120&section=footer" width="100%"/>
 
 <div align="center">
-
-```text
-⚡ ─────────────────────────────────────────────────────── ⚡
-
-                 CODE. COMMIT. CONQUER.
-
-⚡ ─────────────────────────────────────────────────────── ⚡
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=000000&animation=twinkling"/>
-
+  <sub>⚡ "Every commit is a strike. Every push, a storm." — Lightning Black XIII ⚡</sub>
 </div>
