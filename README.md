@@ -39,41 +39,6 @@ Don't just write code. Build something worth remembering.
 
 <img src="./skill-tree.png" alt="Skill Tree" width="90%"/>
 
-<br><br>
-
-                              ┌──────────────┐
-                              │     DEV      │
-                              │    CORE      │
-                              └──────┬───────┘
-                                     │
-                 ┌───────────────────┼───────────────────┐
-                 │                   │                   │
-          ┌──────▼──────┐    ┌──────▼──────┐    ┌──────▼──────┐
-          │  FRONTEND   │    │   BACKEND   │    │  DATABASE   │
-          └──────┬──────┘    └──────┬──────┘    └──────┬──────┘
-                 │                   │                   │
-        ┌────────┼────────┐   ┌──────┼──────┐   ┌──────┼──────┐
-        │        │        │   │      │      │   │      │      │
-       HTML     CSS       JS NODE   PYTHON   API MYSQL  MONGO  REDIS
-        │        │        │   │      │      │   │      │      │
-        ▼        ▼        ▼   ▼      ▼      ▼   ▼      ▼      ▼
-      REACT   TAILWIND   TS EXPRESS DJANGO REST POSTGRES FIREBASE
-
-                         │
-                         ▼
-
-                  ┌───────────────┐
-                  │    DEVOPS     │
-                  └───────┬───────┘
-                          │
-                ┌─────────┼─────────┐
-                │         │         │
-               GIT      DOCKER     LINUX
-                │         │         │
-                └─────────┼─────────┘
-                          │
-                    GITHUB ACTIONS
-
 </div>
 
 ⚔️ TECH STACK
