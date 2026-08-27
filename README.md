@@ -28,3 +28,7 @@ const lightning = {
   currentGoal: "Building robust, scalable applications with seamless UX",
   motto: "Turning daily challenges into innovative code solutions."
 };
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/riderkungza2013/riderkungza2013/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
