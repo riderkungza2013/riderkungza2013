@@ -1,20 +1,25 @@
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:4C1D95,100:A855F7&height=230&section=header&text=LIGHTNING%20BLACK%20XIII&fontSize=42&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%9A%A1%20PHP%20%E2%80%A2%20Laravel%20%E2%80%A2%20React%20Native&descAlignY=58&descSize=17)
+# ⚡ LIGHTNING BLACK XIII ⚡
 
-<a href="https://github.com/riderkungza2013">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=2600&pause=900&color=A855F7&background=00000000&center=true&vCenter=true&width=600&lines=%E2%9A%A1+MASTER+THE+SHADOWS%2C+FEAR+NO+COMPLEXITY;Turning+logic+into+scalable+solutions;Building+in+the+dark%2C+shipping+in+the+light" alt="Typing SVG" />
-</a>
+### `Full-Stack Developer` · `PHP` • `Laravel` • `React Native`
 
 <img src="https://img.shields.io/badge/DEVELOPER-FULL--STACK-000000?style=for-the-badge&labelColor=000000&color=4C1D95" />
 <img src="https://img.shields.io/badge/STATUS-READY_TO_STRIKE-000000?style=for-the-badge&labelColor=000000&color=A855F7" />
-<img src="https://komarev.com/ghpvc/?username=riderkungza2013&label=PROFILE+VIEWS&color=4C1D95&style=for-the-badge" />
+<img src="https://img.shields.io/badge/POWERED_BY-COFFEE-000000?style=for-the-badge&labelColor=000000&color=6D28D9" />
 
 </div>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+```
+╔══════════════════════════════════════════════════════════╗
+║  root@lightning-black:~$ whoami                           ║
+║  > Full-Stack Developer | PHP • Laravel • React Native    ║
+║  root@lightning-black:~$ status                           ║
+║  > [ONLINE] Building in the dark, shipping in the light   ║
+╚══════════════════════════════════════════════════════════╝
+```
 
 ## ⚡ ABOUT THE STORM
 
@@ -43,6 +48,8 @@ motto:       "Master the shadows, fear no complexity."
 <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1" />
 <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED" />
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+<img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
 
 </div>
 
@@ -71,28 +78,20 @@ motto:       "Master the shadows, fear no complexity."
 </tr>
 </table>
 
-## 📊 GITHUB ACTIVITY & LANGUAGES
+## 🗡️ BATTLE LOG — WHAT I BUILD
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=riderkungza2013&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riderkungza2013&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9" width="38%" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=riderkungza2013&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" width="70%"/>
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=riderkungza2013&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" width="90%" />
-
-</div>
+| ⚡ Domain | 🖤 Focus |
+|:---|:---|
+| **Backend Sorcery** | RESTful & GraphQL APIs, Laravel service layers, queue-driven jobs |
+| **Frontend Strikes** | React Native apps, pixel-tight UI, smooth animation systems |
+| **Data Forge** | Schema design, query optimization, migrations that don't break prod |
+| **DevOps Rituals** | Docker environments, CI/CD pipelines, deployment without drama |
 
 ## ⚡ CONNECT TO THE MAINFRAME
 
 <div align="center">
 
-<a href="mailto:your-email@example.com">
+<a href="mailto::)@gmail.com">
   <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" />
 </a>
 <a href="https://github.com/riderkungza2013">
@@ -102,7 +101,9 @@ motto:       "Master the shadows, fear no complexity."
 </div>
 
 <div align="center">
-  <sub>⚡ "In the silence between commits, the code writes itself." — Lightning Black XIII ⚡</sub>
-</div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:4C1D95,100:000000&height=120&section=footer)
+```
+root@lightning-black:~$ echo "in the silence between commits, the code writes itself."
+```
+
+</div>
