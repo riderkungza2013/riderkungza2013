@@ -6,6 +6,11 @@
 
 <img src="./blackout-lightning-red.gif" width="100%" alt="BLACKOUT Header"/>
 
+<br><br>
+
+<!-- PROFILE VIEWS COUNTER -->
+<img src="https://komarev.com/ghpvc/?username=riderkungza2013&color=ff2233&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+
 </div>
 
 ### ⚡ SYSTEM PROFILE
@@ -66,6 +71,14 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,php,mysql,postgres,mongodb,redis,git,github,docker,linux,nginx,vscode,postman&perline=11" alt="Tech Stack" />
+</div>
+
+---
+
+### 🎧 SPOTIFY // CODING SOUNDTRACK
+
+<div align="center">
+  <img src="./spotify-card.svg" alt="Spotify Currently Playing" width="100%"/>
 </div>
 
 ---
