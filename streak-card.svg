@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 210" width="100%" height="100%">
+  <defs>
+    <linearGradient id="cardGradStreak" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0c0d10" />
+      <stop offset="50%" stop-color="#050505" />
+      <stop offset="100%" stop-color="#0a0b0e" />
+    </linearGradient>
+    <linearGradient id="borderGradStreak" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#333333" />
+      <stop offset="50%" stop-color="#ff3344" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#222222" />
+    </linearGradient>
+    <linearGradient id="fireGrad" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#ff1a2a" />
+      <stop offset="50%" stop-color="#ff4d4d" />
+      <stop offset="100%" stop-color="#ffaa00" />
+    </linearGradient>
+    <filter id="glowRed" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <style>
+    .streak-hdr { font-family: 'Segoe UI', -apple-system, sans-serif; font-weight: 800; font-size: 14px; fill: #ffffff; letter-spacing: 1.5px; }
+    .num-red { font-family: 'JetBrains Mono', 'Segoe UI', monospace; font-size: 34px; font-weight: 800; fill: #ff3344; }
+    .lbl-title { font-family: 'Segoe UI', sans-serif; font-size: 13.5px; font-weight: 600; fill: #e0e0e0; }
+    .lbl-sub { font-family: 'Segoe UI', sans-serif; font-size: 11px; fill: #777777; font-weight: 500; }
+  </style>
+
+  <!-- Background Card -->
+  <rect x="1.5" y="1.5" width="797" height="207" rx="12" fill="url(#cardGradStreak)" stroke="url(#borderGradStreak)" stroke-width="1.5" />
+
+  <!-- Top Header Bar -->
+  <path d="M 2 13 Q 2 2 13 2 L 787 2 Q 798 2 798 13 L 798 38 L 2 38 Z" fill="#121318" />
+  <line x1="2" y1="38" x2="798" y2="38" stroke="#222222" stroke-width="1" />
+
+  <!-- Window Dots -->
+  <circle cx="24" cy="20" r="5" fill="#ff5f56" />
+  <circle cx="42" cy="20" r="5" fill="#ffbd2e" />
+  <circle cx="60" cy="20" r="5" fill="#27c93f" />
+
+  <!-- Title -->
+  <text x="80" y="24" class="streak-hdr">🔥 GITHUB STREAK STATS</text>
+
+  <!-- Status indicator -->
+  <circle cx="760" cy="20" r="4" fill="#ff3344" filter="url(#glowRed)" />
+
+  <!-- ================= 3 COLUMNS ================= -->
+  <!-- Divider 1 -->
+  <line x1="270" y1="52" x2="270" y2="195" stroke="#1f2026" stroke-width="1.5" stroke-dasharray="4,4" />
+  <!-- Divider 2 -->
+  <line x1="530" y1="52" x2="530" y2="195" stroke="#1f2026" stroke-width="1.5" stroke-dasharray="4,4" />
+
+  <!-- Column 1: Total Contributions -->
+  <g transform="translate(135, 75)" text-anchor="middle">
+    <text x="0" y="32" class="num-red" filter="url(#glowRed)">85</text>
+    <text x="0" y="65" class="lbl-title">Total Contributions</text>
+    <text x="0" y="90" class="lbl-sub">Sep 21, 2019 – Present</text>
+  </g>
+
+  <!-- Column 2: Current Streak (Center) -->
+  <g transform="translate(400, 75)" text-anchor="middle">
+    <!-- Fire Ring Outer -->
+    <circle cx="0" cy="22" r="32" fill="none" stroke="#22232c" stroke-width="4" />
+    <circle cx="0" cy="22" r="32" fill="none" stroke="url(#fireGrad)" stroke-width="4" stroke-dasharray="160, 40" filter="url(#glowRed)" />
+    
+    <!-- Fire Icon at Top of Ring -->
+    <path d="M 0 -14 C -4 -5, -8 0, -8 7 C -8 11.5, -4.5 15, 0 15 C 4.5 15, 8 11.5, 8 7 C 8 0, 4 -5, 0 -14 Z" fill="url(#fireGrad)" filter="url(#glowRed)" />
+
+    <!-- Current Streak Number -->
+    <text x="0" y="32" class="num-red" filter="url(#glowRed)">1</text>
+    <text x="0" y="72" class="lbl-title" font-weight="700">Current Streak</text>
+    <text x="0" y="94" class="lbl-sub" fill="#ff4d4d">● Active Daily</text>
+  </g>
+
+  <!-- Column 3: Longest Streak -->
+  <g transform="translate(665, 75)" text-anchor="middle">
+    <text x="0" y="32" class="num-red" filter="url(#glowRed)">4</text>
+    <text x="0" y="65" class="lbl-title">Longest Streak</text>
+    <text x="0" y="90" class="lbl-sub">All-Time Peak</text>
+  </g>
+</svg>
