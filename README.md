@@ -70,14 +70,6 @@
 
 ---
 
-### 🎧 SPOTIFY // CODING SOUNDTRACK
-
-<div align="center">
-  <img src="./spotify-card.svg" alt="Spotify Currently Playing" width="100%"/>
-</div>
-
----
-
 ### 🕶️ CONNECT WITH ME
 
 <div align="center">
