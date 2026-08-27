@@ -1,158 +1,178 @@
 <div align="center">
 
-<img src="./assets/blackout-lightning.gif" alt="BLACKOUT animated lightning" width="100%">
+<!-- ========================================================= -->
 
-<br>
+<!--                    BLACKOUT HEADER                        -->
 
-<img src="./assets/system-online.gif" alt="System online" width="72%">
+<!-- ========================================================= -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=BLACKOUT&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=CODE%20%2F%2F%20BUILD%20%2F%2F%20CONQUER&descSize=18&descAlignY=60&animation=twinkling&color=000000" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=700&color=FFFFFF&center=true&vCenter=true&width=720&lines=%3E+SYSTEM+ONLINE;WELCOME+TO+MY+PROFILE;%3E+DEVELOPER_MODE%3A+ACTIVE;%3E+BUILDING+THE+FUTURE...;%3E+CODE.+COMMIT.+REPEAT." />
 
 <br><br>
 
-`DEVELOPER` · `AUTOMATION` · `FULL STACK` · `DEVOPS`
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=ffffff" width="85%"/>
 
 </div>
 
----
+⚡ > SYSTEM_PROFILE
 
-## `> WHOAMI`
-
-```text
 ╔══════════════════════════════════════════════════════════════════════╗
+║                         BLACKOUT // PROFILE                          ║
+╠══════════════════════════════════════════════════════════════════════╣
 ║                                                                      ║
-║   NAME       : YOUR NAME                                            ║
-║   ROLE       : DEVELOPER                                            ║
-║   LOCATION   : THAILAND                                             ║
-║   STATUS     : ● ONLINE                                             ║
-║   MODE       : BLACKOUT                                             ║
-║                                                                      ║
-║   MISSION    : BUILD SYSTEMS THAT ACTUALLY WORK                     ║
+║  USER        : YOUR NAME                                             ║
+║  ROLE        : DEVELOPER                                             ║
+║  LOCATION    : THAILAND                                              ║
+║  STATUS      : ● ONLINE                                              ║
+║  MODE        : BLACKOUT                                              ║
+║  FOCUS       : BUILD / AUTOMATE / OPTIMIZE                           ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
-```
 
-> **Think different. Build harder. Ship faster.**
+Don't just write code. Build something worth remembering.
 
----
-
-# ⚡ SKILL TREE
+🧬 SKILL TREE
 
 <div align="center">
 
-<img src="./assets/skill-tree.png" alt="Developer skill tree" width="100%">
+                              ┌──────────────┐
+                              │     DEV      │
+                              │    CORE      │
+                              └──────┬───────┘
+                                     │
+                 ┌───────────────────┼───────────────────┐
+                 │                   │                   │
+          ┌──────▼──────┐    ┌──────▼──────┐    ┌──────▼──────┐
+          │  FRONTEND   │    │   BACKEND   │    │  DATABASE   │
+          └──────┬──────┘    └──────┬──────┘    └──────┬──────┘
+                 │                   │                   │
+        ┌────────┼────────┐   ┌──────┼──────┐   ┌──────┼──────┐
+        │        │        │   │      │      │   │      │      │
+       HTML     CSS       JS NODE   PYTHON   API MYSQL  MONGO  REDIS
+        │        │        │   │      │      │   │      │      │
+        ▼        ▼        ▼   ▼      ▼      ▼   ▼      ▼      ▼
+      REACT   TAILWIND   TS EXPRESS DJANGO REST POSTGRES FIREBASE
+
+                         │
+                         ▼
+
+                  ┌───────────────┐
+                  │    DEVOPS     │
+                  └───────┬───────┘
+                          │
+                ┌─────────┼─────────┐
+                │         │         │
+               GIT      DOCKER     LINUX
+                │         │         │
+                └─────────┼─────────┘
+                          │
+                    GITHUB ACTIONS
 
 </div>
 
----
-
-# `01 // TECH STACK`
+⚔️ TECH STACK
 
 <div align="center">
 
-| FRONTEND | BACKEND | DATABASE | DEVOPS |
-|:---:|:---:|:---:|:---:|
-| HTML | Node.js | MySQL | Git |
-| CSS | Python | PostgreSQL | Docker |
-| JavaScript | Express | MongoDB | Linux |
-| TypeScript | REST API | Redis | Nginx |
-| React | PHP | Firebase | GitHub Actions |
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,php,mysql,postgres,mongodb,redis,git,github,docker,linux,nginx,vscode,postman&perline=11" />
 
 </div>
 
----
+🔥 POWER LEVEL
 
-# `02 // POWER LEVEL`
-
-```text
 FRONTEND     ███████████████████░  95%
 BACKEND      █████████████████░░░  85%
 DATABASE     ████████████████░░░░  80%
 DEVOPS       ███████████████░░░░░  75%
 AUTOMATION   █████████████████░░░  85%
-```
 
----
+🛰️ CURRENT MISSION
 
-# `03 // CURRENT MISSION`
-
-```text
 ┌──────────────────────────────────────────────────────────────────┐
 │                                                                  │
-│  [ACTIVE]                                                        │
+│  [ SYSTEM TASKS ]                                                │
 │                                                                  │
-│  > BUILD        ████████████████████  100%                      │
-│  > LEARN        █████████████████░░░   85%                      │
-│  > AUTOMATE     ████████████████░░░░   80%                      │
-│  > OPTIMIZE     ███████████████░░░░░   75%                      │
-│  > SHIP         ██████████████████░░   90%                      │
+│  ✓ BUILD        ████████████████████  100%                      │
+│  ✓ LEARN        █████████████████░░░   85%                      │
+│  ✓ AUTOMATE     ████████████████░░░░   80%                      │
+│  ✓ OPTIMIZE     ███████████████░░░░░   75%                      │
+│  → SHIP         ██████████████████░░   90%                      │
 │                                                                  │
 └──────────────────────────────────────────────────────────────────┘
-```
 
----
+💀 PROJECTS
 
-# `04 // PROJECTS`
-
-```text
 ╭──────────────────────────────────────────────────────────────────╮
 │                                                                  │
-│  [01]  PROJECT ALPHA                                             │
-│        └─ Full Stack / Web Application                           │
+│  [01] PROJECT ALPHA                                              │
+│      └─ Full Stack Application                                   │
 │                                                                  │
-│  [02]  PROJECT OMEGA                                             │
-│        └─ Automation / API / Backend                             │
+│  [02] PROJECT OMEGA                                              │
+│      └─ Automation / API / Backend                               │
 │                                                                  │
-│  [03]  PROJECT NEXUS                                             │
-│        └─ Experimental Technology                                │
+│  [03] PROJECT NEXUS                                              │
+│      └─ Experimental Technology                                  │
 │                                                                  │
 ╰──────────────────────────────────────────────────────────────────╯
-```
 
----
-
-# `05 // GITHUB`
+📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=050506&title_color=ffffff&text_color=bfc1c5&icon_color=ffffff&rank_icon=github" width="49%">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=050505&title_color=ffffff&text_color=bdbdbd&icon_color=ffffff&rank_icon=github" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=050506&title_color=ffffff&text_color=bfc1c5" width="41%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=050505&title_color=ffffff&text_color=bdbdbd" width="40%"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=050506&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=bfc1c5&dates=777a80" width="70%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=050505&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=bdbdbd&dates=777777" width="70%"/>
 
 </div>
 
----
+🐍 CONTRIBUTION
 
-# `06 // CONNECT`
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" width="90%"/>
+
+</div>
+
+⚡ ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=050505&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+🕶️ CONNECT
 
 <div align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GITHUB-050506?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LINKEDIN-050506?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/EMAIL-050506?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
-<br>
-
 <div align="center">
 
-```text
 ⚡ ───────────────────────────────────────────────────────────── ⚡
 
-              CODE. COMMIT. BREAK. REBUILD.
+                 CODE. COMMIT. CONQUER.
 
 ⚡ ───────────────────────────────────────────────────────────── ⚡
-```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=000000&animation=twinkling" width="100%"/>
 
 </div>
