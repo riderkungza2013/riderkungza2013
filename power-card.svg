@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 280" width="100%" height="100%">
+  <defs>
+    <linearGradient id="cardGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0c0d10" />
+      <stop offset="50%" stop-color="#050505" />
+      <stop offset="100%" stop-color="#0a0b0e" />
+    </linearGradient>
+    <linearGradient id="borderGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#333333" />
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.5" />
+      <stop offset="100%" stop-color="#222222" />
+    </linearGradient>
+    <linearGradient id="barGradWhite" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#888888" />
+      <stop offset="100%" stop-color="#ffffff" />
+    </linearGradient>
+    <linearGradient id="barGradCyan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0088cc" />
+      <stop offset="100%" stop-color="#00f0ff" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .sec-title { font-family: 'Segoe UI', -apple-system, sans-serif; font-weight: 800; font-size: 14px; fill: #ffffff; letter-spacing: 1.5px; }
+    .skill-name { font-family: 'JetBrains Mono', monospace; font-size: 12px; fill: #cccccc; font-weight: 600; }
+    .skill-pct { font-family: 'JetBrains Mono', monospace; font-size: 12px; fill: #ffffff; font-weight: 700; }
+    .bg-bar { fill: #1c1d24; rx: 4px; }
+    .fg-bar { rx: 4px; }
+  </style>
+
+  <!-- Background Card -->
+  <rect x="1.5" y="1.5" width="797" height="277" rx="12" fill="url(#cardGrad2)" stroke="url(#borderGrad2)" stroke-width="1.5" />
+
+  <!-- Top Header Bar -->
+  <path d="M 2 13 Q 2 2 13 2 L 787 2 Q 798 2 798 13 L 798 40 L 2 40 Z" fill="#121318" />
+  <line x1="2" y1="40" x2="798" y2="40" stroke="#222222" stroke-width="1" />
+
+  <!-- Window Dots -->
+  <circle cx="24" cy="21" r="5" fill="#ff5f56" />
+  <circle cx="42" cy="21" r="5" fill="#ffbd2e" />
+  <circle cx="60" cy="21" r="5" fill="#27c93f" />
+
+  <!-- Titles -->
+  <text x="75" y="26" class="sec-title">🔥 POWER LEVEL</text>
+  <text x="445" y="26" class="sec-title">🛰️ CURRENT MISSION</text>
+
+  <!-- Vertical Middle Divider -->
+  <line x1="400" y1="40" x2="400" y2="280" stroke="#1f2026" stroke-width="1.5" stroke-dasharray="4,4" />
+
+  <!-- ================= LEFT COLUMN: POWER LEVEL ================= -->
+  <!-- 1. Frontend 95% -->
+  <g transform="translate(30, 75)">
+    <text x="0" y="0" class="skill-name">FRONTEND</text>
+    <text x="330" y="0" text-anchor="end" class="skill-pct">95%</text>
+    <rect x="0" y="8" width="330" height="9" class="bg-bar" />
+    <rect x="0" y="8" width="313" height="9" fill="url(#barGradWhite)" class="fg-bar" />
+  </g>
+
+  <!-- 2. Backend 85% -->
+  <g transform="translate(30, 117)">
+    <text x="0" y="0" class="skill-name">BACKEND</text>
+    <text x="330" y="0" text-anchor="end" class="skill-pct">85%</text>
+    <rect x="0" y="8" width="330" height="9" class="bg-bar" />
+    <rect x="0" y="8" width="280" height="9" fill="url(#barGradWhite)" class="fg-bar" />
+  </g>
+
+  <!-- 3. Database 80% -->
+  <g transform="translate(30, 159)">
+    <text x="0" y="0" class="skill-name">DATABASE</text>
+    <text x="330" y="0" text-anchor="end" class="skill-pct">80%</text>
+    <rect x="0" y="8" width="330" height="9" class="bg-bar" />
+    <rect x="0" y="8" width="264" height="9" fill="url(#barGradWhite)" class="fg-bar" />
+  </g>
+
+  <!-- 4. DevOps 75% -->
+  <g transform="translate(30, 201)">
+    <text x="0" y="0" class="skill-name">DEVOPS</text>
+    <text x="330" y="0" text-anchor="end" class="skill-pct">75%</text>
+    <rect x="0" y="8" width="330" height="9" class="bg-bar" />
+    <rect x="0" y="8" width="247" height="9" fill="url(#barGradWhite)" class="fg-bar" />
+  </g>
+
+  <!-- 5. Automation 85% -->
+  <g transform="translate(30, 243)">
+    <text x="0" y="0" class="skill-name">AUTOMATION</text>
+    <text x="330" y="0" text-anchor="end" class="skill-pct">85%</text>
+    <rect x="0" y="8" width="330" height="9" class="bg-bar" />
+    <rect x="0" y="8" width="280" height="9" fill="url(#barGradWhite)" class="fg-bar" />
+  </g>
+
+  <!-- ================= RIGHT COLUMN: CURRENT MISSION ================= -->
+  <!-- 1. BUILD 100% -->
+  <g transform="translate(435, 75)">
+    <text x="0" y="0" class="skill-name" fill="#00ff66">✓ BUILD</text>
+    <text x="330" y="0" text-anchor="end" class="skill-pct" fill="#00ff66">100%</text>
+    <rect x="0" y="8" width="330" height="9" class="bg-bar" />
+    <rect x="0" y="8" width="330" height="9" fill="#00ff66" class="fg-bar" />
+  </g>
+
+  <!-- 2. LEARN 85% -->
+  <g transform="translate(435, 117)">
+    <text x="0" y="0" class="skill-name">✓ LEARN</text>
+    <text x="330" y="0" text-anchor="end" class="skill-pct">85%</text>
+    <rect x="0" y="8" width="330" height="9" class="bg-bar" />
+    <rect x="0" y="8" width="280" height="9" fill="url(#barGradWhite)" class="fg-bar" />
+  </g>
+
+  <!-- 3. AUTOMATE 80% -->
+  <g transform="translate(435, 159)">
+    <text x="0" y="0" class="skill-name">✓ AUTOMATE</text>
+    <text x="330" y="0" text-anchor="end" class="skill-pct">80%</text>
+    <rect x="0" y="8" width="330" height="9" class="bg-bar" />
+    <rect x="0" y="8" width="264" height="9" fill="url(#barGradWhite)" class="fg-bar" />
+  </g>
+
+  <!-- 4. OPTIMIZE 75% -->
+  <g transform="translate(435, 201)">
+    <text x="0" y="0" class="skill-name">✓ OPTIMIZE</text>
+    <text x="330" y="0" text-anchor="end" class="skill-pct">75%</text>
+    <rect x="0" y="8" width="330" height="9" class="bg-bar" />
+    <rect x="0" y="8" width="247" height="9" fill="url(#barGradWhite)" class="fg-bar" />
+  </g>
+
+  <!-- 5. SHIP 90% -->
+  <g transform="translate(435, 243)">
+    <text x="0" y="0" class="skill-name" fill="#90caf9">→ SHIP</text>
+    <text x="330" y="0" text-anchor="end" class="skill-pct" fill="#90caf9">90%</text>
+    <rect x="0" y="8" width="330" height="9" class="bg-bar" />
+    <rect x="0" y="8" width="297" height="9" fill="url(#barGradCyan)" class="fg-bar" />
+  </g>
+</svg>

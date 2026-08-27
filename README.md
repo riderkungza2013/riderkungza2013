@@ -16,22 +16,11 @@
 
 ### ⚡ SYSTEM PROFILE
 
-```text
-╔══════════════════════════════════════════════════════════════════════╗
-║                         BLACKOUT // PROFILE                          ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║  USER        : LIGHTNING BLACK XIII (riderkungza2013)                ║
-║  ROLE        : FULL STACK DEVELOPER                                  ║
-║  LOCATION    : THAILAND                                              ║
-║  STATUS      : ● ONLINE                                              ║
-║  MODE        : BLACKOUT                                              ║
-║  FOCUS       : BUILD / AUTOMATE / OPTIMIZE                           ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+<div align="center">
 
-> *Don't just write code. Build something worth remembering.*
+<img src="./profile-card.svg" alt="System Profile" width="100%"/>
+
+</div>
 
 ---
 
@@ -55,50 +44,23 @@
 
 ---
 
-### 🔥 POWER LEVEL
+### ⚡ POWER LEVEL &amp; CURRENT MISSION
 
-```text
-FRONTEND     ███████████████████░  95%
-BACKEND      █████████████████░░░  85%
-DATABASE     ████████████████░░░░  80%
-DEVOPS       ███████████████░░░░░  75%
-AUTOMATION   █████████████████░░░  85%
-```
+<div align="center">
 
----
+<img src="./power-card.svg" alt="Power Level &amp; Current Mission" width="100%"/>
 
-### 🛰️ CURRENT MISSION
-
-```text
-┌──────────────────────────────────────────────────────────────────┐
-│  [ SYSTEM TASKS ]                                                │
-│                                                                  │
-│  ✓ BUILD        ████████████████████  100%                       │
-│  ✓ LEARN        █████████████████░░░   85%                       │
-│  ✓ AUTOMATE     ████████████████░░░░   80%                       │
-│  ✓ OPTIMIZE     ███████████████░░░░░   75%                       │
-│  → SHIP         ██████████████████░░   90%                       │
-└──────────────────────────────────────────────────────────────────┘
-```
+</div>
 
 ---
 
 ### 💀 FEATURED PROJECTS
 
-```text
-╭──────────────────────────────────────────────────────────────────╮
-│                                                                  │
-│  [01] PROJECT ALPHA                                              │
-│      └─ Full Stack Application                                   │
-│                                                                  │
-│  [02] PROJECT OMEGA                                              │
-│      └─ Automation / API / Backend                               │
-│                                                                  │
-│  [03] PROJECT NEXUS                                              │
-│      └─ Experimental Technology                                  │
-│                                                                  │
-╰──────────────────────────────────────────────────────────────────╯
-```
+<div align="center">
+
+<img src="./projects-card.svg" alt="Featured Projects" width="100%"/>
+
+</div>
 
 ---
 
