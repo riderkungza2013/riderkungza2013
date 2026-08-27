@@ -5,13 +5,13 @@
 
 <!-- ================= TYPING EFFECT & VISITOR COUNTER ================= -->
 <div align="center">
-  <a href="https://github.com/riderkungza2013">
+  <a href="https://github.com/BANK">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=F5A623&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%E2%9A%A1+Hello+World!+I'm+riderkungza2013;%F0%9F%9A%80+Full-Stack+Web+%26+Mobile+Developer;%F0%9F%92%BB+PHP%2FLaravel+%E2%80%A2+React+Native+%E2%80%A2+JavaScript;%F0%9F%94%A5+Turning+complex+problems+into+clean+code;" alt="Typing SVG" />
   </a>
   <br/>
 
   <!-- Profile Views Badge -->
-  <img src="https://komarev.com/ghpvc/?username=riderkungza2013&style=for-the-badge&color=ffb86c&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=BANK&style=for-the-badge&color=ffb86c&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <br/>
