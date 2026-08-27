@@ -45,7 +45,7 @@
 <div align="center">
   <img src="./analytics-card.svg" alt="GitHub Analytics &amp; Top Languages" width="100%"/>
   <br><br>
-  <img src="https://streak-stats.demolab.com/?user=riderkungza2013&amp;hide_border=true&amp;background=050505&amp;ring=ff3333&amp;fire=ff3333&amp;currStreakNum=ff3333&amp;sideNums=ff3333&amp;currStreakLabel=ffffff&amp;sideLabels=bdbdbd&amp;dates=777777" width="100%" alt="GitHub Streak" />
+  <img src="./streak-card.svg" alt="GitHub Streak" width="100%"/>
 </div>
 
 ---
