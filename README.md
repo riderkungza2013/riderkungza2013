@@ -6,11 +6,6 @@
 
 <img src="./blackout-lightning-red.gif" width="100%" alt="BLACKOUT Header"/>
 
-<br><br>
-
-<!-- PROFILE VIEWS COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=riderkungza2013&color=ff2233&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-
 </div>
 
 ### ⚡ SYSTEM PROFILE
@@ -97,6 +92,10 @@
   <a href="mailto:riderkungza2013@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+
+  <br><br>
+
+  <img src="https://komarev.com/ghpvc/?username=riderkungza2013&color=ff2233&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <br>
