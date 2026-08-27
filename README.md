@@ -6,7 +6,7 @@
 
 <!-- ========================================================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=BLACKOUT&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=CODE%20%2F%2F%20BUILD%20%2F%2F%20CONQUER&descSize=18&descAlignY=60&animation=twinkling&color=000000" width="100%"/>
+<img src="./blackout-lightning.gif" width="100%" alt="BLACKOUT Header"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=700&color=FFFFFF&center=true&vCenter=true&width=720&lines=%3E+SYSTEM+ONLINE;WELCOME+TO+MY+PROFILE;%3E+DEVELOPER_MODE%3A+ACTIVE;%3E+BUILDING+THE+FUTURE...;%3E+CODE.+COMMIT.+REPEAT." />
 
